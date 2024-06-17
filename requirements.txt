@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+statsmodels
+matplotlib
+seaborn
+azureml-sdk
+joblib
+pytest
+jupyter
+scipy
+xgboost
+tensorflow
+Flask
+-e .
